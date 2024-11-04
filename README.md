@@ -1,6 +1,6 @@
 # Assignment 2
 
-This is the 2nd assignment (A2) for E-39 Design Principles in React. Using our timers from Assignment 1 (A1), we will build a workout app that allows our users to assemble **multiple timers** into a full workout. Test
+This is the 2nd assignment (A2) for E-39 Design Principles in React. Using our timers from Assignment 1 (A1), we will build a workout app that allows our users to assemble **multiple timers** into a full workout.
 
 ## Project setup
 
